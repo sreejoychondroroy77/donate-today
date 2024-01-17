@@ -1,5 +1,9 @@
 * {
     margin: auto 0;
+
+}
+
+body {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -201,4 +205,53 @@ hr {
     width: 250px;
     /* border: 1px solid black; */
     margin-left: 30px;
+}
+
+.section-6 {
+    /* background-color: aqua; */
+    margin-left: 25%;
+}
+
+.sec6div1 {
+    height: 200px;
+    width: 500px;
+    /* background-color: aqua; */
+    text-align: center;
+}
+
+.sec6div1 p {
+    font-size: 11px;
+}
+
+.sec6div2 {
+    text-align: center;
+    background-color: rgb(252, 240, 187);
+    height: 120px;
+    width: 500px;
+    border-radius: 5px;
+
+}
+
+.sec6div2 input {
+    padding: 1px 40px 1px 5px;
+    margin-top: 55px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.footer-1 h1 {
+    color: rgb(216, 81, 81);
+
+
+}
+
+.footer-1 {
+    height: 140px;
+    width: 700px;
+    text-align: center;
+    margin-left: 18%;
+
 }
